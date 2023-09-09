@@ -1,0 +1,8 @@
+requests
+pymongo
+kafka-python
+pyspark
+nltk
+dash==1.19.0
+werkzeug==2.0.0
+jupyter_dash==0.3.0
